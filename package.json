@@ -1,6 +1,6 @@
 {
   "name": "rpi-bluetooth-wifi-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Configure RPI Wi-Fi over bluetooth",
   "main": "index.js",
   "scripts": {

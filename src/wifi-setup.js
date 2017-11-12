@@ -9,7 +9,7 @@ var Path          = require('path');
 
 
 var FileMonitor = require('./file-monitor.js')
-var WifiConnection = require('/wifi-connection.js');
+var WifiConnection = require('./wifi-connection.js');
 
 
 

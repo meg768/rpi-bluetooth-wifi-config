@@ -1,2 +1,3 @@
 # rpi-bluetooth-wifi-config
-Configure RPI Wi-Fi over bluetooth
+
+Obsolete. Do not use.
